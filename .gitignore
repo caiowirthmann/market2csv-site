@@ -6,4 +6,5 @@
 /layouts
 /static
 /themes
+/public
 .hugo_build.lock
