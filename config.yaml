@@ -1,0 +1,50 @@
+baseURL: "https://caiowirthmann.github.io/market2csv-site"
+languageCode: "pt-br"
+title: "Market2csv"
+theme: "PaperMod"
+googleAnalytics: ""
+
+params:
+  defaultTheme: dark
+  ShowCodeCopyButtons: true
+  disableAnchoredHeadings: true
+  homeInfoparams:
+    Title: Market2csv
+    Content: >
+      - Ferramenta **open souce gratuita** de extração de dados de anúncios de diversos marketplaces.
+
+      - Fácil de usar, não precisa de login nas contas do marketplace, navegador.
+
+      - Compativel tanto com Windows quanto sistemas unix (linux, macOs).
+
+  socialIcons:
+    - name: github
+    - title: Veja o código fonte no github
+    - url: "https://github.com/caiowirthmann/market2csv"
+
+menu:
+  main:
+    - identifier: Inicio
+      name: Inicio
+      url: ""
+      weight: 1
+    - identifier: Instalacao
+      name: Instalacao
+      url: /instalacao/
+      weight: 2
+    - identifier: Como usar
+      name: Como usar
+      url: /como-usar/
+      weight: 3
+    - identifier: Exemplos
+      name: Exemplos
+      url: /exemplos/
+      weight: 4
+    - identifier: Limitações
+      name: "Limitações"
+      url: /limitacoes/
+      weight: 5
+    - identifier: Ajuda
+      name: Ajuda
+      url: /ajuda/
+      weight: 6
