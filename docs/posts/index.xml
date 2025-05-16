@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Market2csv</title>
-    <link>https://caiowirthmann.github.io/market2csv-site/</link>
-    <description>Recent content on Market2csv</description>
+    <title>Posts on Market2csv</title>
+    <link>https://caiowirthmann.github.io/market2csv-site/posts/</link>
+    <description>Recent content in Posts on Market2csv</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>pt-br</language>
     <copyright>Market2csv</copyright>
     <lastBuildDate>Fri, 25 Apr 2025 23:15:59 -0300</lastBuildDate>
-    <atom:link href="https://caiowirthmann.github.io/market2csv-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://caiowirthmann.github.io/market2csv-site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQ e Suporte</title>
       <link>https://caiowirthmann.github.io/market2csv-site/posts/faq/</link>

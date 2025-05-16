@@ -2,7 +2,13 @@ baseURL: "https://caiowirthmann.github.io/market2csv-site"
 languageCode: "pt-br"
 title: "Market2csv"
 theme: "PaperMod"
+copyright: "© [Market2csv](https://github.com/caiowirthmann/market2csv)"
 googleAnalytics: ""
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 params:
   defaultTheme: dark
@@ -11,11 +17,17 @@ params:
   homeInfoparams:
     Title: Market2csv
     Content: >
-      - Ferramenta **open souce gratuita** de extração de dados de anúncios de diversos marketplaces.
 
-      - Fácil de usar, não precisa de login nas contas do marketplace, navegador.
+      Ferramenta **open souce gratuita** desenvolvida em Go para extração de dados de anúncios de diversos marketplaces.
 
-      - Compativel tanto com Windows quanto sistemas unix (linux, macOs).
+
+      Você pode coletar informações detalhadas como título, descrição, preços, estoque, avaliações, informações do vendedor e ficha técnica dos produtos.
+
+
+      Fácil de usar, não precisa de login nas contas do marketplace, navegador.
+
+
+      Compativel tanto com Windows quanto sistemas Unix (Linux, MacOs).
 
   socialIcons:
     - name: github
@@ -28,23 +40,24 @@ menu:
       name: Inicio
       url: ""
       weight: 1
-    - identifier: Instalacao
-      name: Instalacao
-      url: /instalacao/
-      weight: 2
     - identifier: Como usar
       name: Como usar
-      url: /como-usar/
+      url: /posts/como-usar/
+      weight: 2
+    - identifier: Instalação/Download
+      name: Instalação / Download
+      url: /posts/instalacao/
       weight: 3
+
     - identifier: Exemplos
       name: Exemplos
-      url: /exemplos/
+      url: /posts/exemplos/
       weight: 4
     - identifier: Limitações
       name: "Limitações"
-      url: /limitacoes/
+      url: /posts/limitacoes/
       weight: 5
-    - identifier: Ajuda
-      name: Ajuda
-      url: /ajuda/
+    - identifier: FAQ e SUporte
+      name: FAQ e Suporte
+      url: /posts/faq/
       weight: 6
