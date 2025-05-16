@@ -5,6 +5,5 @@
 /i18n
 /layouts
 /static
-/themes
 /public
 .hugo_build.lock

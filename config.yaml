@@ -57,7 +57,7 @@ menu:
       name: "Limitações"
       url: /posts/limitacoes/
       weight: 5
-    - identifier: FAQ e SUporte
+    - identifier: FAQ e Suporte
       name: FAQ e Suporte
       url: /posts/faq/
       weight: 6
