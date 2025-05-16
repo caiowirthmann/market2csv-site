@@ -3,7 +3,7 @@
 /content
 /data
 /i18n
-/docs
 /layouts
+/public
 /static
 .hugo_build.lock

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Market2csv</title>
+    <link>https://caiowirthmann.github.io/market2csv-site/posts/</link>
+    <description>Recent content in Posts on Market2csv</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>pt-br</language>
+    <copyright>Market2csv</copyright>
+    <lastBuildDate>Fri, 25 Apr 2025 23:15:59 -0300</lastBuildDate>
+    <atom:link href="https://caiowirthmann.github.io/market2csv-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ e Suporte</title>
+      <link>https://caiowirthmann.github.io/market2csv-site/posts/faq/</link>
+      <pubDate>Fri, 25 Apr 2025 23:15:59 -0300</pubDate>
+      <guid>https://caiowirthmann.github.io/market2csv-site/posts/faq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Limitações</title>
+      <link>https://caiowirthmann.github.io/market2csv-site/posts/limitacoes/</link>
+      <pubDate>Fri, 25 Apr 2025 23:15:53 -0300</pubDate>
+      <guid>https://caiowirthmann.github.io/market2csv-site/posts/limitacoes/</guid>
+      <description>Limitações da ferramenta em cada marletplace</description>
+    </item>
+    <item>
+      <title>Exemplos de pesquisa e resultados</title>
+      <link>https://caiowirthmann.github.io/market2csv-site/posts/exemplos/</link>
+      <pubDate>Fri, 25 Apr 2025 23:15:12 -0300</pubDate>
+      <guid>https://caiowirthmann.github.io/market2csv-site/posts/exemplos/</guid>
+      <description>Exemplos dos resultados e formatos</description>
+    </item>
+    <item>
+      <title>Como usar Market2csv</title>
+      <link>https://caiowirthmann.github.io/market2csv-site/posts/como-usar/</link>
+      <pubDate>Fri, 25 Apr 2025 23:14:41 -0300</pubDate>
+      <guid>https://caiowirthmann.github.io/market2csv-site/posts/como-usar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Instalação / Download</title>
+      <link>https://caiowirthmann.github.io/market2csv-site/posts/instalacao/</link>
+      <pubDate>Fri, 25 Apr 2025 23:08:11 -0300</pubDate>
+      <guid>https://caiowirthmann.github.io/market2csv-site/posts/instalacao/</guid>
+      <description>Como baixar e rodar a ferramenta Market2csv</description>
+    </item>
+  </channel>
+</rss>
