@@ -1,9 +1,3 @@
-/archetypes
-/assets
-/content
-/data
-/i18n
-/layouts
 /public
-/static
+/resources
 .hugo_build.lock
