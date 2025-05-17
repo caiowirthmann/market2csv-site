@@ -1,7 +1,8 @@
 ---
 title: "Exemplos de pesquisa e resultados"
-date: 2025-04-25T23:15:12-03:00
+date: 2025-04-25T21:14:41-03:00
 draft: false
+weight: 3
 menu: exemplos
 summary: "Exemplos dos resultados e formatos"
 ---

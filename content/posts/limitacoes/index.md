@@ -1,7 +1,8 @@
 ---
 title: "Limitações"
-date: 2025-04-25T23:15:53-03:00
+date: 2025-04-25T22:14:41-03:00
 draft: false
+weight: 4
 summary: "Limitações da ferramenta em cada marletplace"
 ---
 

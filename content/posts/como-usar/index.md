@@ -1,8 +1,9 @@
 ---
 title: Como usar Market2csv
-date: 2025-04-25T23:14:41-03:00
+date: 2025-04-25T19:14:41-03:00
 draft: false
 menu: Como usar
+weight: 1
 summary: " "
 ---
 

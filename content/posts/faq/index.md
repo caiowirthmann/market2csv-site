@@ -1,7 +1,8 @@
 ---
 title: "FAQ e Suporte"
-date: 2025-04-25T23:15:59-03:00
+date: 2025-04-25T23:14:41-03:00
 draft: false
+weight: 5
 menu: FAQ e Suporte
 summary: " "
 ---
@@ -12,7 +13,8 @@ Se você tiver **dúvidas, sugestões**, encontrar algum **problema**, quiser co
 
 - **Telegram:** [@caiowp](https://t.me/caiowp)  
 - **Discord:** [musaaaa4](https://discord.com/users/279083512638734336)  
-- **Email:** [caiowirthmann@gmail.com](mailto:caiowirthmann@gmail.com)
+- **Github** [caiowirthmann](https://github.com/caiowirthmann/)
+- **Link do código do projeto** [Market2csv](https://github.com/caiowirthmann/market2csv)
 
 ---
 

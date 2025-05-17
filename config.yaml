@@ -31,8 +31,11 @@ params:
 
   socialIcons:
     - name: github
-    - title: Veja o código fonte no github
-    - url: "https://github.com/caiowirthmann/market2csv"
+    - url: "https://github.com/caiowirthmann/market2csv/"
+    - name: discord
+    - url: "https://discord.com/users/279083512638734336"
+    - name: telegram
+    - url: "https://t.me/caiowp"
 
 menu:
   main:

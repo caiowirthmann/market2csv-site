@@ -1,20 +1,33 @@
 ---
 title: "Instalação / Download"
 summary: Como baixar e rodar a ferramenta Market2csv
-date: 2025-04-25T23:08:11-03:00
+date: 2025-04-25T20:14:41-03:00
+weight: 2
 aliases: [instalacao/download]
 draft: false
 ---
 
-### **Não é necessário instalação da ferramenta. Basta baixar a ferramente e rodar**
+### **Não é necessário instalação da ferramenta. Basta baixar e rodar**
 
 <!-- Você pode baixar diretamente do link do projeto no github (não precisa ter conta no site para baixar os arquivos) -->
 
-\>\>\> **BAIXE A FERRAMENTA SOMENTE DO LINK DO PROJETO NO GITHUB** \<\<\<
 
--> Link do projeto no github ([market2csv](https://github.com/caiowirthmann/market2csv))
-^ alterar para link da release
-^ indicar qual versão baixar dependendo do sistema (`.exe` para windows, `.bin` para unix)
+[Pagina com link para download no github](https://github.com/caiowirthmann/market2csv/releases)
+
+ou pelo link direto abaixo (links do github também), basta selecionar a opção para o seu sistema operacional:
+
+[Market2csv - windows](https://github.com/caiowirthmann/market2csv/releases/download/v1.0.0/market2csv_windows_v1.0.0.exe)
+
+[Market2csv - windows (arquivo .zip)](https://github.com/caiowirthmann/market2csv/releases/download/v1.0.0/market2csv_windows_v1.0.0.zip)
+
+[Market2csv - linux](https://github.com/caiowirthmann/market2csv/releases/download/v1.0.0/market2csv_linux_v1.0.0)
+
+[Market2csv - linux (arquivo .tar)](https://github.com/caiowirthmann/market2csv/releases/download/v1.0.0/market2csv_linux_v1.0.0.tar.gz)
+
+[Market2csv - mac](https://github.com/caiowirthmann/market2csv/releases/download/v1.0.0/market2csv_mac_v1.0.0)
+
+[Market2csv - mac (arquivo .tar)](https://github.com/caiowirthmann/market2csv/releases/download/v1.0.0/market2csv_mac_v1.0.0.tar.gz)
+
 
 ---
 
